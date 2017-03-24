@@ -3,8 +3,6 @@ layout: page
 title: Interests
 ---
 
-## Areas of Interest
-
 * Science and Technology
 
 * Biology and Genetic Engineering
