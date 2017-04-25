@@ -1,9 +1,12 @@
-# Interesting Reads from Around the Web (04/24/3017)
+---
+layout: post
+title: Interesting Reads from Around the Web (04/24/3017)
+---
 
-## Topic
+## Assorted
 
-[Headline](https://www.google.com)
-Description
-Time
-Why it's interesting
-Tags
+[The Kekule Problem](http://nautil.us/issue/47/consciousness/the-kekul-problem)
+
+An exploration of the concious, unconscious divide through the emergence of language
+* ~15 mins
+* Conciousness, Language
