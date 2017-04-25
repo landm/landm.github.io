@@ -5,6 +5,7 @@ title: Projects
 
 # Side Projects
 
+- Productivity Hacking
 - Professional Resume App
 - Productivity Planner App
 - One Stop Manager Shop..
